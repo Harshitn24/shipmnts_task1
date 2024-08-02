@@ -1,4 +1,4 @@
-** How To Run **
+**How To Run**
 
 1. clone project
 2. npm install
